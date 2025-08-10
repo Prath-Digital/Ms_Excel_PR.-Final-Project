@@ -24,7 +24,7 @@
           ⚙️ PR. Final Project
         </span>
         <div style="margin-bottom:6px;">
-          <a href="https://github.com/Prath-code/Ms_Excel_PR.-Final-Project/releases/download/ms_excel/PR.Final.Project.xlsx" style="display:inline-block;margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;">Download Excel File</a>
+          <a href="https://github.com/Prath-Digital/Ms_Excel_PR.-Final-Project/releases/download/ms_excel/PR.Final.Project.xlsx" style="display:inline-block;margin-left:12px;padding:4px 12px;background:#1976d2;color:#fff;border-radius:4px;text-decoration:none;font-weight:bold;">Download Excel File</a>
         </div>
       </td>
     </tr>
@@ -39,4 +39,4 @@
 
 <hr style="background:transparent;">
 
-> **Note:** This project belongs to [Microsoft Excel](https://github.com/Prath-code/Ms_Excel_Practice) Lab work and Self exercises.
+> **Note:** This project belongs to [Microsoft Excel](https://github.com/Prath-Digital/Ms_Excel_Practice) Lab work and Self exercises.
